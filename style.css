@@ -1,0 +1,25 @@
+.navbar-nav me-auto mb-2 mb-lg-0{
+    padding: 20px;padding-left: 50px;padding-right: 50px !important;
+}
+.navbar-nav me-auto mb-2 mb-lg-0:hover{
+    color: "green" !important;
+    transform: scaleX(10px) !important;
+    
+}
+#botton:hover{
+background-color: green !important;
+} 
+#carouselExampleSlidesOnly{
+   background-image: url(tejas.jpg) ;
+   height: 100% !important;
+} 
+body{ 
+    background-color:antiquewhite;
+ 
+      background-image: url(tejas.jpg);
+       background-repeat: no-repeat;
+    background-position: center ;
+    background-size: contain;
+    background-attachment: fixed;
+}
+.row{justify-content: left !important;}
